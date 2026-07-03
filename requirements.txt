@@ -1,0 +1,7 @@
+openai-agents
+openai
+groq
+python-dotenv
+requests
+resend
+httpx
